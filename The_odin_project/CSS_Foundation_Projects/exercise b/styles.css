@@ -1,0 +1,21 @@
+.odd {
+    background: yellow;
+  }
+  
+  #div2 {
+    color: blue;
+    font-size: 36px;
+  }
+  
+  .third {
+    font-size: 24px;
+  }
+  
+  .fourth {
+    font-size: 24px;
+  }
+  
+  #div4 {
+    font-weight: bold;
+    background: red;
+  }
