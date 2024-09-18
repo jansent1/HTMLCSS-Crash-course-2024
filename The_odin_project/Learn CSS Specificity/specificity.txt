@@ -1,0 +1,5 @@
+First # IDs
+second . classes
+third inherentance
+
+when conflicts: last declared (cascaded) 
